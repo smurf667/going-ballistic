@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "ter-indent": [true, 2],
+    "max-line-length": [true, {"limit": 120, "ignore-pattern": "(^.+data:image.+)|(^.+innerHTML.+)"}],
+    "interface-name": [true, "never-prefix"]
+  }
+}
