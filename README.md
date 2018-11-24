@@ -18,7 +18,8 @@ If you want to use the editor, press Shift+E in the game. The current level will
 
 ## Building the game
 
-Execute `npm run build` to build the game. Open `src/index.html` in a browser; this gives you access to the game and the editor.
+You'll need Typescript - you can install it via `npm install -g typescript`. Make sure the dependencies are resolved by running `npm install`.
+Then execute `npm run build` to build the game. Open `src/index.html` in a browser; this gives you access to the game and the editor.
 
 ## Comments on the code
 
