@@ -6,7 +6,7 @@ You steer your car with the cursors keys (up to accelerate, down to break, left 
 
 If you want to use the editor, press Shift+E in the game. The current level will be shown. Levels are stored as indexed images, so there is a import and export feature, to be used with the clipboard. This is not super-fancy but served my needs. New levels via pull requests are welcome.
 
-**Enjoy!**
+[**Enjoy!**](http://www.engehausen.de/jan/gb.html)
 
 ## Screenshots
 
