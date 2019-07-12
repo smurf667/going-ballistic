@@ -20,6 +20,6 @@
         "webpack-cli": "3.0.8"
     },
     "dependencies": {
-        "npm": "6.4.1"
+        "npm": "6.10.1"
     }
 }
