@@ -22,7 +22,7 @@
         "webpack-cli": "3.0.8"
     },
     "dependencies": {
-        "npm": "6.14.3"
+        "npm": "6.14.6"
     },
     "resolutions": {
         "minimist": "1.2.5"
